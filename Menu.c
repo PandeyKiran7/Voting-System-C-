@@ -16,6 +16,7 @@
 
 #define ADMIN_USERNAME "KiranCandidate"
 #define ADMIN_PASSWORD "Ronaldo@7"
+#define CHECK "Kiran"
 
 // Define structures
 typedef struct {
